@@ -1,0 +1,39 @@
+#app {
+  padding: 30px;
+  height: 100%;
+}
+
+input {
+    height: 40px;
+    width: 400px;
+    border: 1px solid #e2dcdc;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    background: #e2dcdc;
+    border: 1px solid #e2dcdc;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+p {
+    font-size: 20px;
+    padding: 20px;
+    background: cadetblue;
+    color: aliceblue;
+}
+
+.books {
+    margin-top: 30px;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 30px;
+    border: 1px solid;
+    padding: 30px;
+}
